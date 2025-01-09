@@ -16,7 +16,7 @@ const char questions[TOTAL_QUESTIONS][100] = {
     "Is Programming scary?"
 };
 
-const char options[TOTAL_QUESTIONS][9][50] = {
+const char options[TOTAL_QUESTIONS][9][100] = {
     {"Abuja", "Lagos", "Niger", "Benue"},
     {"1960", "1984", "1932", "1944"},
     {"ABUAD", "PAU", "NILE", "BABCOCK"},
